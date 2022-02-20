@@ -1,6 +1,6 @@
 # add two large csv files
-movies_metadata.csv
-ratings.csv
+Resources/movies_metadata.csv
+Resources/ratings.csv
 
 # add files
 .DS_Store
