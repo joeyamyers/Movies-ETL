@@ -1,3 +1,7 @@
+# add two large csv files
+movies_metadata.csv
+ratings.csv
+
 # add files
 .DS_Store
 config.py
