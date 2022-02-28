@@ -1,11 +1,11 @@
 # Movies-ETL
-Amazing Prime wants me to help to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. I will create a function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database. 
+## Project Overview
+### Purpose
+Amazing Prime wants me to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. I created a function that takes in the three files — Wikipedia data, Kaggle metadata, and the MovieLens rating data - and performed the ETL process before adding the data to a PostgreSQL database. 
 
-Deliverable 1: Write an ETL Function to Read Three Data Files
+### Tools Used
+* Data ETL using Python/Jupyter Notebook
+* PostgreSQL
+* pgAdmin
 
-Deliverable 2: Extract and Transform the Wikipedia Data
-
-Deliverable 3: Extract and Transform the Kaggle data
-
-Deliverable 4: Create the Movie Database
 
